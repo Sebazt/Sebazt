@@ -3,12 +3,9 @@
 Mi nombre es Sebastian de Colombia, soy desarrollador Fullstack MERN, me encanta Javascript, React y React-Native, en el momento me encuentro haciendo proyectos con el fin de mejorar mis habilidades y aumentar mis posibilidades de empleabilidad.
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebazt" alt="sebazt" /></a> </p>
-
 - 🔭 En el momento me encuentro desarrollando [Macchiato con React y su versión movil](https://macchiatoapp.herokuapp.com/)
 
-- 🌱 Estoy día tras día mejorando mis habilidades en el **Stack MERN**
+- 🌱 Puedes encontrar mi Portfolio en el siguiente link : https://portfoliosebazt.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
