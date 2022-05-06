@@ -1,6 +1,6 @@
 ### console.log(Hola!👋)
 
-Mi nombre es Sebastian de Colombia, soy desarrollador Fullstack MERN, me encanta Javascript, React y React-Native, en el momento me encuentro haciendo proyectos con el fin de mejorar mis habilidades y aumentar mis posibilidades de empleabilidad.
+Mi nombre es Sebastian de Colombia, soy desarrollador Fullstack MERN, me encanta Javascript, React y React-Native, en el momento estoy realizando un proceso educativo a través de BeeSoftLabs en FullStack MEAN, y haciendo proyectos con el fin de mejorar mis habilidades técnicas, blandas y profesionales.
 
 
 - 🔭 Estoy desarrollando  en equipo una aplicación de punto a punta con el stack MERN. [Álom]
