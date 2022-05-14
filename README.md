@@ -3,7 +3,7 @@
 Mi nombre es Sebastian de Colombia, soy desarrollador Fullstack MERN, me encanta Javascript, React y React-Native, en el momento estoy realizando un proceso educativo a través de BeeSoftLabs en FullStack MEAN, y haciendo proyectos con el fin de mejorar mis habilidades técnicas, blandas y profesionales.
 
 
-- 🔭 Estoy desarrollando  en equipo una aplicación de punto a punta con el stack MERN. [Álom]
+- 🔭 Estoy desarrollando  en equipo una aplicación de punta a punta con el stack MERN. [Álom]
 
 - 🌱 Puedes encontrar mi Portfolio en el siguiente link : https://portfoliosebazt.netlify.app/
 
