@@ -15,7 +15,6 @@
         personal applications.
       </h3>
       <hr />
-      <h4 style="margin: 3px 0; letter-spacing: 2px; color: #5b5b5f" align="center">- I’m 🔭I’m currently working on **Masivian**</h4>
       <h4 style="margin: 3px 0; letter-spacing: 2px; color: #5b5b5f" align="center">
         - <span style="font-size: 24px">👨‍💻</span> All of my projects are available at
         <span style="color: #014175; font-size: 16.5px; font-weight: 400"
